@@ -1,4 +1,3 @@
-# Ödev 1 
-## İlk Web Sayfam
-
+# İlk Web Sayfam
+<!-- Ödev-1  -->
 ![Screenshot](img.png)
