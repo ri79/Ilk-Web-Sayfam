@@ -5,4 +5,5 @@
 
 # Ödev 2
 
-![odev2](https://user-images.githubusercontent.com/26644949/139920971-b50001b7-9d53-4c59-a47d-be663dfb6800.png)
+![odev2](https://user-images.githubusercontent.com/26644949/139921140-a69e66ca-ced7-4763-b3db-dc06f044a87f.png)
+
